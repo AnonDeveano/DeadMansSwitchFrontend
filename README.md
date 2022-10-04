@@ -1,4 +1,5 @@
-# DeadMansSwitchFrontend
+# Dead Man UI
+
 The React dApp for Dead Man's Switch.
 
 As this is my first time uploading a README for a front end application, apologies in advance for how the code is structured. I kept it simple for myself to focus
